@@ -54,8 +54,7 @@
 ## 📂 Original Repositories
 
 - 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
-- 🔗 [cyberseller999/saini-txt-direct](https://github.com/cyberseller999/saini-txt-direct)
-
+- 🔗 [Apnimaa/class-txt-direct](https://github.com/Apnimaa/Class-txt-direct)
 ---
 
 > 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
