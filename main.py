@@ -31,8 +31,8 @@ from vars import API_ID, API_HASH, BOT_TOKEN, OWNER, CREDIT, AUTH_USERS, TOTAL_U
 # Initialize the bot
 bot = Client(
     "bot",
-    api_id=API_ID,
-    api_hash=API_HASH,
+    api_id=27433400,
+    api_hash=1a286620de5ffe0a7d9b57e604293555,
     bot_token=BOT_TOKEN
 )
 # .....,.....,.......,...,.......,....., .....,.....,.......,...,.......,.....,
